@@ -1,0 +1,6 @@
+{
+    "url": "http://www.energisa.com.br",
+    "campos":{"usuario":"CNPJ/CPF","senha":"Senha Site","uc":"UC","mes":"Mês extração"},
+    "EntrarPastas":false,
+    "tempoEspera":{"rapido":1,"medio":2,"lento":4}
+}

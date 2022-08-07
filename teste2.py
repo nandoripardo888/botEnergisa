@@ -1,0 +1,10 @@
+from fake_headers import Headers
+
+header = Headers(
+        headers=True, # generate misc headers
+    )
+
+for i in range(10):
+    if i == 5:
+        continue
+    print(i)
